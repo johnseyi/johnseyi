@@ -12,7 +12,7 @@ Based in Kampala, Uganda. Currently building at [@Wellapath-org](https://github.
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **Okelcor Website** | Client website, 500+ commits, in active production | TypeScript / Next.js | [live](https://okelcor-website.vercel.app) · [repo](https://github.com/okelcor-gmbh/okelcor-website) |
+| **Okelcor Website** | Client website, 500+ commits, in active production | TypeScript / Next.js | [repo](https://github.com/okelcor-gmbh/okelcor-website) |
 | **Okelcor API** | Backend API powering the Okelcor platform | PHP | [repo](https://github.com/okelcor-gmbh/okelcor-api) |
 | **Vitorra Web** | Client web platform | TypeScript / Next.js | [live](https://vitorraweb.vercel.app) · [repo](https://github.com/vitorraweb/vitorraweb) |
 | **Munich Nightclub / Afro Zone Munich** | Venue site + admin panel (Supabase + Next.js) | TypeScript / Supabase | [live](https://munich-nightclub.vercel.app) · [repo](https://github.com/afrozonemunchen/munich-nightclub) |
