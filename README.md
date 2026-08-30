@@ -1,28 +1,33 @@
 # Hi, I'm John Oluwaseyi 👋
 
-Full-stack developer building web, mobile, and backend systems for real clients — from live e-commerce sites to a Flutter clinic decision-support app. Background in networking & cybersecurity (ISBAT University), so I try to build things that are fast *and* hard to break into.
+Full-stack product engineer shipping complete, deployed products for real clients — 1,600+ commits across 16 repos in the last six months, from a live B2B e-commerce ecosystem to a multi-tenant cinema platform and a Flutter clinical decision-support app. Background in networking & cybersecurity (ISBAT University), so I build things that are fast *and* hard to break into.
 
-Based in Kampala, Uganda. Currently building at [@Wellapath-org](https://github.com/Wellapath-org).
+Based in Kampala, Uganda. Currently building at [@okelcor-gmbh](https://github.com/okelcor-gmbh), [@centurycinemax6](https://github.com/centurycinemax6), and [@Wellapath-org](https://github.com/Wellapath-org).
 
 ## What I work with
 
-`TypeScript` · `Next.js` / `React` · `Node.js` (Fastify) · `PHP` · `Flutter` / `Dart` · `Tailwind CSS` · `Supabase` / `PostgreSQL`
+`TypeScript` · `Next.js` / `React` · `Laravel` / `PHP` · `Node.js` (Fastify) · `Flutter` / `Dart` · `React Native` (Expo) · `PostgreSQL` / `Supabase` / `Redis` · `Tailwind CSS`
 
 ## Featured work
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **Okelcor Website** | Client website, 500+ commits, in active production | TypeScript / Next.js | [repo](https://github.com/okelcor-gmbh/okelcor-website) |
-| **Okelcor API** | Backend API powering the Okelcor platform | PHP | [repo](https://github.com/okelcor-gmbh/okelcor-api) |
-| **Vitorra Web** | Client web platform | TypeScript / Next.js | [live](https://vitorraweb.vercel.app) · [repo](https://github.com/vitorraweb/vitorraweb) |
-| **Munich Nightclub / Afro Zone Munich** | Venue site + admin panel (Supabase + Next.js) | TypeScript / Supabase | [live](https://munich-nightclub.vercel.app) · [repo](https://github.com/afrozonemunchen/munich-nightclub) |
-| **Wellapath Mobile** | Clinic decision-support system, Flutter mobile app | Dart / Flutter | [repo](https://github.com/Wellapath-org/wellapath-mobile) |
+| **Okelcor Website** | Global tyre supply platform — order tracking, trade documents, Stripe Checkout. 625 commits, in production | TypeScript / Next.js 15 | [live](https://www.okelcor.com) · [repo](https://github.com/okelcor-gmbh/okelcor-website) |
+| **Okelcor API** | Laravel backend: Stripe + Adyen, 2FA, invoice PDFs, VAT/EU trade docs, 178 migrations | PHP / Laravel 13 | [repo](https://github.com/okelcor-gmbh/okelcor-api) |
+| **Okelcor Partner** | Offline-first sales-log PWA for partners in Ghana, Nigeria & UAE — IndexedDB outbox, idempotent sync | TypeScript / Next.js | [live](https://partners.okelcor.com) · [repo](https://github.com/okelcor-gmbh/okelcor-partner) |
+| **Century Cinemax Platform** | Multi-tenant cinema operating platform: 17-module Laravel monolith, offline POS PWA, EFRIS e-invoicing, Mobile Money | PHP / Laravel / Next.js | private — ask me about it |
+| **Vitorra Web** | Platform rebuild: legacy React/Firebase → Next.js + Laravel monorepo | TypeScript / Next.js / Laravel | [live](https://vitorraweb.vercel.app) · [repo](https://github.com/vitorraweb/vitorraweb) |
+| **Wellapath Mobile** | Offline-first Flutter clinical decision-support app for Nigeria | Dart / Flutter | [repo](https://github.com/Wellapath-org/wellapath-mobile) |
+| **Munich Nightclub** | Venue site + realtime admin panel (Supabase RLS + Realtime) | TypeScript / Supabase | [live](https://munich-nightclub.vercel.app) · [repo](https://github.com/afrozonemunchen/munich-nightclub) |
 
-### Personal / social-impact projects
+### Hackathons, prototypes & social impact
 
-- **[Goodie Glow Guide](https://github.com/johnseyi/goodie-glow-guide)** — 30-day skincare routine guide built for the African market
-- **[Healthy Steps Foundation](https://github.com/johnseyi/healthy-steps-foundation)** — site for a health-focused nonprofit
-- **[Let's Talk About Autism](https://github.com/johnseyi/letstalkaboutautism)** — awareness and resource platform
+- **[Uganda HIE](https://github.com/Uganda-Hie/uganda-hie)** — national Health Information Exchange demo for the Bank of Uganda BoU@60 hackathon, built in 3 days ([live demo](https://cool-smakager-893ca4.netlify.app/moh))
+- **[Chicken Tonight](https://github.com/centurycinemax6/chicken-tonight)** — ordering prototype for a 15-outlet restaurant group: Mobile Money, kitchen display system, rider tracking ([live](https://chicken-tonight.vercel.app))
+- **[Takeover Creatives FC](https://github.com/johnseyi/takeover-fc-website)** — headless CMS build (Next.js + Laravel Filament) for a Kampala community football club
+- **[Healthy Steps Foundation](https://github.com/johnseyi/healthy-steps-foundation)** — nonprofit site with Supabase-backed donations and PDF receipts ([live](https://healthy-steps-foundation.vercel.app))
+- **[Let's Talk About Autism](https://github.com/johnseyi/letstalkaboutautism)** — awareness and resource platform ([live](https://www.letstalkaboutautism.org/))
+- **[Goodie Glow Guide](https://github.com/johnseyi/goodie-glow-guide)** — 30-day skincare guide for the African market, zero-framework vanilla JS ([live](https://goodie-glow-guide.vercel.app))
 
 ## GitHub stats
 
@@ -30,4 +35,4 @@ Based in Kampala, Uganda. Currently building at [@Wellapath-org](https://github.
 
 ## Get in touch
 
-📫 leojohnseyi@gmail.com
+📫 leojohnseyi@gmail.com · 🌐 [johnseyi.github.io](https://johnseyi.github.io)
