@@ -4,7 +4,7 @@
 
 I build software for places where the connection is unreliable and the stakes are real: a tyre exporter moving stock between Europe, West Africa and the Gulf, a cinema that has to keep selling tickets when the network drops, a clinic in Wakiso that needs donors to see where their money goes.
 
-I'm studying Networking and Cybersecurity at ISBAT University, and it shapes how I work. Access is checked on the server, money leaves a paper trail, and the app has to behave when the signal doesn't.
+I studied Networking and Cybersecurity at ISBAT University, and it shapes how I work. Access is checked on the server, money leaves a paper trail, and the app has to behave when the signal doesn't.
 
 <br>
 
