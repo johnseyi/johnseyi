@@ -1,38 +1,129 @@
-# Hi, I'm John Oluwaseyi 👋
+<img src="assets/header.svg" alt="John Oluwaseyi, software engineer in Kampala" width="100%">
 
-Full-stack product engineer shipping complete, deployed products for real clients — 1,600+ commits across 16 repos in the last six months, from a live B2B e-commerce ecosystem to a multi-tenant cinema platform and a Flutter clinical decision-support app. Background in networking & cybersecurity (ISBAT University), so I build things that are fast *and* hard to break into.
+<br>
 
-Based in Kampala, Uganda. Currently building at [@okelcor-gmbh](https://github.com/okelcor-gmbh), [@centurycinemax6](https://github.com/centurycinemax6), and [@Wellapath-org](https://github.com/Wellapath-org).
+I build software for places where the connection is unreliable and the stakes are real: a tyre exporter moving stock between Europe, West Africa and the Gulf, a cinema that has to keep selling tickets when the network drops, a clinic in Wakiso that needs donors to see where their money goes.
 
-## What I work with
+I'm studying Networking and Cybersecurity at ISBAT University, and it shapes how I work. Access is checked on the server, money leaves a paper trail, and the app has to behave when the signal doesn't.
 
-`TypeScript` · `Next.js` / `React` · `Laravel` / `PHP` · `Node.js` (Fastify) · `Flutter` / `Dart` · `React Native` (Expo) · `PostgreSQL` / `Supabase` / `Redis` · `Tailwind CSS`
+<br>
 
-## Featured work
+## Now
 
-| Project | What it is | Stack | Link |
-|---|---|---|---|
-| **Okelcor Website** | Global tyre supply platform — order tracking, trade documents, Stripe Checkout. 625 commits, in production | TypeScript / Next.js 15 | [live](https://www.okelcor.com) · [repo](https://github.com/okelcor-gmbh/okelcor-website) |
-| **Okelcor API** | Laravel backend: Stripe + Adyen, 2FA, invoice PDFs, VAT/EU trade docs, 178 migrations | PHP / Laravel 13 | [repo](https://github.com/okelcor-gmbh/okelcor-api) |
-| **Okelcor Partner** | Offline-first sales-log PWA for partners in Ghana, Nigeria & UAE — IndexedDB outbox, idempotent sync | TypeScript / Next.js | [live](https://partners.okelcor.com) · [repo](https://github.com/okelcor-gmbh/okelcor-partner) |
-| **Century Cinemax Platform** | Multi-tenant cinema operating platform: 17-module Laravel monolith, offline POS PWA, EFRIS e-invoicing, Mobile Money | PHP / Laravel / Next.js | private — ask me about it |
-| **Vitorra Web** | Platform rebuild: legacy React/Firebase → Next.js + Laravel monorepo | TypeScript / Next.js / Laravel | [live](https://vitorraweb.vercel.app) · [repo](https://github.com/vitorraweb/vitorraweb) |
-| **Wellapath Mobile** | Offline-first Flutter clinical decision-support app for Nigeria | Dart / Flutter | [repo](https://github.com/Wellapath-org/wellapath-mobile) |
-| **Munich Nightclub** | Venue site + realtime admin panel (Supabase RLS + Realtime) | TypeScript / Supabase | [live](https://munich-nightclub.vercel.app) · [repo](https://github.com/afrozonemunchen/munich-nightclub) |
+| | |
+|---|---|
+| **[Okelcor](https://github.com/okelcor-gmbh)** | A tyre supply platform used by buyers and partners across three continents |
+| **[Century Cinemax](https://github.com/centurycinemax6)** | Cinema operations, from the box office to e-invoicing and Mobile Money |
+| **[WellaPath](https://github.com/Wellapath-org)** | A clinical decision-support app for Nigeria that works offline |
 
-### Hackathons, prototypes & social impact
+<br>
 
-- **[Uganda HIE](https://github.com/Uganda-Hie/uganda-hie)** — national Health Information Exchange demo for the Bank of Uganda BoU@60 hackathon, built in 3 days ([live demo](https://cool-smakager-893ca4.netlify.app/moh))
-- **[Chicken Tonight](https://github.com/centurycinemax6/chicken-tonight)** — ordering prototype for a 15-outlet restaurant group: Mobile Money, kitchen display system, rider tracking ([live](https://chicken-tonight.vercel.app))
-- **[Takeover Creatives FC](https://github.com/johnseyi/takeover-fc-website)** — headless CMS build (Next.js + Laravel Filament) for a Kampala community football club
-- **[Healthy Steps Foundation](https://github.com/johnseyi/healthy-steps-foundation)** — nonprofit site with Supabase-backed donations and PDF receipts ([live](https://healthy-steps-foundation.vercel.app))
-- **[Let's Talk About Autism](https://github.com/johnseyi/letstalkaboutautism)** — awareness and resource platform ([live](https://www.letstalkaboutautism.org/))
-- **[Goodie Glow Guide](https://github.com/johnseyi/goodie-glow-guide)** — 30-day skincare guide for the African market, zero-framework vanilla JS ([live](https://goodie-glow-guide.vercel.app))
+## Selected work
 
-## GitHub stats
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnseyi&show_icons=true&theme=default&hide_border=true&count_private=true)
+### Cutmio
+*Private*
 
-## Get in touch
+A team of AI agents that edits video for a creator. One reviews the footage, one studies a reference video, one plans the cut, others assemble and finish it. A critic checks the result against the brief before anything is delivered.
 
-📫 leojohnseyi@gmail.com · 🌐 [johnseyi.github.io](https://johnseyi.github.io)
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### TradePilot
+*Private, in early build*
+
+A workspace for trade transactions where cost, approval and execution live in one record. The domain core is written and tested in Python, with the system design and security model documented. Not deployed yet, and the README says so.
+
+`Python` `Django`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Humble Vessel
+[Live](https://humblevesselfoundationandclinic.org) · [Code](https://github.com/johnseyi/humble-vessel-web)
+
+A website for a community clinic in Bukasa, in English and Luganda. Donors pay by mobile money or international transfer, and staff match each pledge to the payment that actually arrives.
+
+`Next.js` `TypeScript` `WordPress`
+
+</td>
+<td width="50%" valign="top">
+
+### Kampala Pressure
+*Private*
+
+A browser game about one week of life in Kampala. Three people start with different money and the same Friday deadline: rent is due. The city is hand-drawn in SVG and the characters are fictional.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Cartolinks Assignment
+[Live](https://cartolinks-intern-assignment-web.vercel.app) · [Code](https://github.com/johnseyi/cartolinks-intern-assignment-web)
+
+A frontend internship task: match a supplied design exactly, with dark and light themes, a keyboard-friendly carousel and a layout that holds up on a phone.
+
+`Next.js` `TypeScript` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## In production
+
+| Product | What it does | |
+|---|---|---|
+| **Okelcor Website** | Tyre catalogue, order tracking, trade documents and card checkout | [Live](https://www.okelcor.com) |
+| **Okelcor API** | Laravel backend for payments, two-factor login, invoices and EU trade paperwork | [Code](https://github.com/okelcor-gmbh/okelcor-api) |
+| **Okelcor Partner** | A sales log that works offline for partners in Ghana, Nigeria and the UAE, and syncs without duplicating entries | [Live](https://partners.okelcor.com) |
+| **Century Cinemax** | A multi-tenant cinema platform with an offline point of sale | Private |
+| **WellaPath Mobile** | Flutter app giving clinicians decision support without a connection | [Code](https://github.com/Wellapath-org/wellapath-mobile) |
+| **Munich Nightclub** | Venue site with a live admin panel | [Live](https://munich-nightclub.vercel.app) |
+
+<details>
+<summary><b>Community and hackathon projects</b></summary>
+
+<br>
+
+- **[Uganda HIE](https://github.com/Uganda-Hie/uganda-hie)**: a national health information exchange demo, built in three days for the Bank of Uganda BoU@60 hackathon
+- **[Takeover Creatives FC](https://github.com/johnseyi/takeover-fc-website)**: a website for a community football club in Kampala
+- **[Healthy Steps Foundation](https://github.com/johnseyi/healthy-steps-foundation)**: a nonprofit site with donations and PDF receipts
+- **[Let's Talk About Autism](https://github.com/johnseyi/letstalkaboutautism)**: an awareness and resource platform
+- **[Goodie Glow Guide](https://github.com/johnseyi/goodie-glow-guide)**: a 30-day skincare guide with a skin-type quiz, in plain JavaScript
+
+</details>
+
+<br>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,python,django,flutter,dart,postgres,supabase,redis,vercel&perline=15" alt="TypeScript, React, Next.js, Tailwind, Node.js, PHP, Laravel, Python, Django, Flutter, Dart, PostgreSQL, Supabase, Redis, Vercel">
+</p>
+
+<br>
+
+## Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=johnseyi&show_icons=true&count_private=true&hide_border=true&bg_color=0B0F14&title_color=E6C27A&text_color=C9CED6&icon_color=E6C27A" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnseyi&layout=compact&hide_border=true&bg_color=0B0F14&title_color=E6C27A&text_color=C9CED6" alt="Most used languages">
+</p>
+
+<br>
+
+## Contact
+
+[leojohnseyi@gmail.com](mailto:leojohnseyi@gmail.com) · [johnseyi.github.io](https://johnseyi.github.io)

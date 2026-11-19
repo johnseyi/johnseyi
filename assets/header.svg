@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="John Oluwaseyi, software engineer in Kampala">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#121A23"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E6C27A"/>
+      <stop offset="1" stop-color="#B98A3E"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#E6C27A" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#E6C27A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- concentric arcs, right side -->
+  <g fill="none" stroke="url(#gold)" stroke-width="1.2" opacity="0.55">
+    <circle cx="1090" cy="160" r="56"/>
+    <circle cx="1090" cy="160" r="96" opacity="0.7"/>
+    <circle cx="1090" cy="160" r="136" opacity="0.45"/>
+    <circle cx="1090" cy="160" r="176" opacity="0.25"/>
+  </g>
+  <circle cx="1090" cy="160" r="5" fill="#E6C27A"/>
+
+  <text x="80" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#F3EFE6" letter-spacing="-1">John Oluwaseyi</text>
+  <rect x="82" y="142" width="72" height="3" fill="url(#gold)"/>
+  <text x="80" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#C9CED6">Engineer. Web, mobile and backend systems.</text>
+  <text x="80" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#8A93A0">Software that keeps working when the network doesn't.</text>
+  <text x="80" y="284" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#E6C27A" letter-spacing="3">KAMPALA, UGANDA</text>
+</svg>
